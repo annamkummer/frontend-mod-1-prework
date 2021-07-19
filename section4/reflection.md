@@ -24,7 +24,7 @@
       * Array, because this only needs a list without any information about the individual items.
 
 1. In this section, we talked about an `transaction item object`. It has keys that represent different properties an bank transaction would have, and values that store the data. In a banking app, this data would eventually be displayed in the browser for the user. Think of another Object in a web application that you use frequently. What is it? What keys might be on it? What are example values?
-    * On amazon, each item for sale could be an object. The key-value pairs would be things like the title (e.g., "HEPA filter"), image, seller (e.g., "Amazon"), price (e.g., 39.99), whether it's prime eligible (true or false to check a box), and estimated delivery date (e.g., "Monday, July 19th").
+    * On amazon, each item for sale could be an object. The key-value pairs would be things like the title (e.g., "HEPA filter"), image, seller (e.g., "Amazon"), price (e.g., 39.79), whether it's prime eligible (true or false to check a box), and estimated delivery date (e.g., "Monday, July 19th").
 
 1. What questions do you still have about classes and/or Objects?
     1. Is it possible to add properties to a class after the initial declaration? Or to just one object instance, not all?
