@@ -45,7 +45,7 @@ console.log(firstName, isHungry, numberOfPets);
 // log all three variables to the console.
 firstName = "Ron";
 isHungry = false;
-numberOfPets += 1;
+numberOfPets = 2;
 console.log(firstName, isHungry, numberOfPets);
 
 // YOU DO:

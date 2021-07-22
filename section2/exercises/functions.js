@@ -30,8 +30,8 @@ function sayHello() {
   console.log("Oh, Hello!");
 }
 
-sayHello()
-sayHello()
+sayHello();
+sayHello();
 //-------------------
 // PART 2: Arguments and Parameters
 //-------------------
